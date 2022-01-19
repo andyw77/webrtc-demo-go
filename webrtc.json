@@ -2,8 +2,8 @@
   "openAPIMode": "mqtt",
   "openAPIUrl": "openapi.tuyacn.com",
 
-  "clientId": "",
-  "secret": "",
+  "clientId": "m393xrfhb5ea0ioty97v",
+  "secret": "1910a9a3267f43adac30666c552a6537",
 
   "authMode": "easy",
 
@@ -15,5 +15,5 @@
     "code": ""
   },
 
-  "deviceId": ""
+  "deviceId": "bf57043ada7555ccd7t4qs"
 }
